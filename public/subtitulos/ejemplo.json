@@ -1,0 +1,219 @@
+[
+  {
+    "text": "Hola,",
+    "startMs": 500,
+    "endMs": 855,
+    "timestampMs": 677,
+    "confidence": 1
+  },
+  {
+    "text": " hoy",
+    "startMs": 855,
+    "endMs": 1210,
+    "timestampMs": 1032,
+    "confidence": 1
+  },
+  {
+    "text": " te",
+    "startMs": 1210,
+    "endMs": 1565,
+    "timestampMs": 1387,
+    "confidence": 1
+  },
+  {
+    "text": " quiero",
+    "startMs": 1565,
+    "endMs": 1919,
+    "timestampMs": 1742,
+    "confidence": 1
+  },
+  {
+    "text": " contar",
+    "startMs": 1919,
+    "endMs": 2274,
+    "timestampMs": 2097,
+    "confidence": 1
+  },
+  {
+    "text": " tres",
+    "startMs": 2274,
+    "endMs": 2629,
+    "timestampMs": 2452,
+    "confidence": 1
+  },
+  {
+    "text": " claves",
+    "startMs": 2629,
+    "endMs": 2984,
+    "timestampMs": 2806,
+    "confidence": 1
+  },
+  {
+    "text": " para",
+    "startMs": 2984,
+    "endMs": 3339,
+    "timestampMs": 3161,
+    "confidence": 1
+  },
+  {
+    "text": " sentirte",
+    "startMs": 3339,
+    "endMs": 3694,
+    "timestampMs": 3516,
+    "confidence": 1
+  },
+  {
+    "text": " mejor",
+    "startMs": 3694,
+    "endMs": 4048,
+    "timestampMs": 3871,
+    "confidence": 1
+  },
+  {
+    "text": " cada",
+    "startMs": 4048,
+    "endMs": 4403,
+    "timestampMs": 4226,
+    "confidence": 1
+  },
+  {
+    "text": " día.",
+    "startMs": 4403,
+    "endMs": 4758,
+    "timestampMs": 4581,
+    "confidence": 1
+  },
+  {
+    "text": " La",
+    "startMs": 4758,
+    "endMs": 5113,
+    "timestampMs": 4935,
+    "confidence": 1
+  },
+  {
+    "text": " primera",
+    "startMs": 5113,
+    "endMs": 5468,
+    "timestampMs": 5290,
+    "confidence": 1
+  },
+  {
+    "text": " es",
+    "startMs": 5468,
+    "endMs": 5823,
+    "timestampMs": 5645,
+    "confidence": 1
+  },
+  {
+    "text": " aprender",
+    "startMs": 5823,
+    "endMs": 6177,
+    "timestampMs": 6000,
+    "confidence": 1
+  },
+  {
+    "text": " a",
+    "startMs": 6177,
+    "endMs": 6532,
+    "timestampMs": 6355,
+    "confidence": 1
+  },
+  {
+    "text": " escucharte.",
+    "startMs": 6532,
+    "endMs": 6887,
+    "timestampMs": 6710,
+    "confidence": 1
+  },
+  {
+    "text": " La",
+    "startMs": 6887,
+    "endMs": 7242,
+    "timestampMs": 7065,
+    "confidence": 1
+  },
+  {
+    "text": " segunda,",
+    "startMs": 7242,
+    "endMs": 7597,
+    "timestampMs": 7419,
+    "confidence": 1
+  },
+  {
+    "text": " poner",
+    "startMs": 7597,
+    "endMs": 7952,
+    "timestampMs": 7774,
+    "confidence": 1
+  },
+  {
+    "text": " límites",
+    "startMs": 7952,
+    "endMs": 8306,
+    "timestampMs": 8129,
+    "confidence": 1
+  },
+  {
+    "text": " sin",
+    "startMs": 8306,
+    "endMs": 8661,
+    "timestampMs": 8484,
+    "confidence": 1
+  },
+  {
+    "text": " culpa.",
+    "startMs": 8661,
+    "endMs": 9016,
+    "timestampMs": 8839,
+    "confidence": 1
+  },
+  {
+    "text": " Y",
+    "startMs": 9016,
+    "endMs": 9371,
+    "timestampMs": 9194,
+    "confidence": 1
+  },
+  {
+    "text": " la",
+    "startMs": 9371,
+    "endMs": 9726,
+    "timestampMs": 9548,
+    "confidence": 1
+  },
+  {
+    "text": " tercera,",
+    "startMs": 9726,
+    "endMs": 10081,
+    "timestampMs": 9903,
+    "confidence": 1
+  },
+  {
+    "text": " darte",
+    "startMs": 10081,
+    "endMs": 10435,
+    "timestampMs": 10258,
+    "confidence": 1
+  },
+  {
+    "text": " permiso",
+    "startMs": 10435,
+    "endMs": 10790,
+    "timestampMs": 10613,
+    "confidence": 1
+  },
+  {
+    "text": " para",
+    "startMs": 10790,
+    "endMs": 11145,
+    "timestampMs": 10968,
+    "confidence": 1
+  },
+  {
+    "text": " descansar.",
+    "startMs": 11145,
+    "endMs": 11500,
+    "timestampMs": 11323,
+    "confidence": 1
+  }
+]
