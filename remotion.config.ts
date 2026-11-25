@@ -13,7 +13,13 @@ Config.overrideBundlerConfig(enableTailwind);
 
 // Entorno cloud: usar el Chromium preinstalado (el dominio de descarga de Remotion está bloqueado).
 // En tu ordenador puedes borrar estas líneas; Remotion descargará su propio Chrome.
-const localChrome = "/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell";
-if (require("fs").existsSync(localChrome)) {
+const fs = require("fs");
+const candidatos = [
+  "/opt/pw-browsers/chromium_headless_shell/chrome-headless-shell-linux64/chrome-headless-shell",
+  "/opt/pw-browsers/headless_shell_as_downloaded/chrome-headless-shell",
+];
+const localChrome = candidatos.find((c) => fs.existsSync(c));
+if (localChrome) {
   Config.setBrowserExecutable(localChrome);
 }
+Config.setChromiumOpenGlRenderer("swangle");

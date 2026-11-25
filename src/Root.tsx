@@ -1,4 +1,6 @@
 import "./index.css";
+import { MisionSamaritano } from "./misiones/MisionSamaritano";
+import { T } from "./misiones/tiempos";
 import { Composition, Folder } from "remotion";
 import {
   calcularReelClips,
@@ -23,6 +25,16 @@ import {
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Folder name="Misiones-de-Jesus">
+        <Composition
+          id="Mision-BuenSamaritano"
+          component={MisionSamaritano}
+          durationInFrames={T.total}
+          fps={30}
+          width={1080}
+          height={1920}
+        />
+      </Folder>
       <Folder name="Sabrina-Hejda">
         <Composition
           id="Sabrina-Hablando"
