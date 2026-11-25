@@ -9,7 +9,7 @@
   },
   "private": true,
   "dependencies": {
-    "@react-three/fiber": "^9.3.0",
+    "@react-three/fiber": "^9.7.0",
     "@remotion/captions": "4.0.536",
     "@remotion/cli": "4.0.536",
     "@remotion/fonts": "4.0.536",
